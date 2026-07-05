@@ -83,7 +83,7 @@ Pattern matching is case-sensitive.
 
 ## Change Log
 
-Version 1.3 (05-Jul-2026)
+### Version 1.3 (05-Jul-2026)
 
 - Added support for maintaining custom error patterns in the Excel template file.
 - Consolidated analysis results into a single Excel workbook.
