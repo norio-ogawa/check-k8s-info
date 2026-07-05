@@ -46,8 +46,11 @@ The generated Excel workbook includes:
 - Detection dates and occurrence counts for each pattern
 - Matching log entries for further investigation
 
+<p align="center">
+  <img src="img/check-k8s-info-results.png" width="80%">
+</p>
 
-![Output](img/check-k8s-info-results.png)
+
 
 ## Customize Error Patterns
 
